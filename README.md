@@ -1,2 +1,3 @@
 # ansible.drill
-Ansible Collection for Instruqt IT Labs
+
+A Fake Ansible Collection for the [Ansible Instruqt Labs](https://github.com/ansible/instruqt).
